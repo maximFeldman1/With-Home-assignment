@@ -1,4 +1,4 @@
-1. https://github.com/maximFeldman1/With-Home-assignment.git
+1. git clone https://github.com/maximFeldman1/With-Home-assignment.git
 
 2. cd With-Home assignment
 
